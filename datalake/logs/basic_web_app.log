@@ -1,0 +1,47 @@
+2024-03-23 11:51:34,293:INFO:Starting the application
+2024-03-23 11:51:34,360:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:51:34,360:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:51:34,362:INFO: * Restarting with stat
+2024-03-23 11:51:35,232:INFO:Starting the application
+2024-03-23 11:51:35,238:WARNING: * Debugger is active!
+2024-03-23 11:51:35,244:INFO: * Debugger PIN: 899-236-599
+2024-03-23 11:53:01,236:INFO:Starting the application
+2024-03-23 11:53:01,326:INFO:Starting the application
+2024-03-23 11:53:15,225:INFO:Starting the application
+2024-03-23 11:53:15,246:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:53:15,246:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:53:15,248:INFO: * Restarting with stat
+2024-03-23 11:53:16,215:INFO:Starting the application
+2024-03-23 11:53:16,223:WARNING: * Debugger is active!
+2024-03-23 11:53:16,228:INFO: * Debugger PIN: 899-236-599
+2024-03-23 11:56:24,331:INFO:Starting the application
+2024-03-23 11:56:24,420:INFO:Starting the application
+2024-03-23 11:56:29,635:INFO:Starting the application
+2024-03-23 11:56:29,658:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:56:29,658:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:56:29,660:INFO: * Restarting with stat
+2024-03-23 11:56:30,619:INFO:Starting the application
+2024-03-23 11:56:30,626:WARNING: * Debugger is active!
+2024-03-23 11:56:30,632:INFO: * Debugger PIN: 899-236-599
+2024-03-23 11:57:30,870:INFO:127.0.0.1 - - [23/Mar/2024 11:57:30] "GET / HTTP/1.1" 200 -
+2024-03-23 11:57:30,952:INFO:127.0.0.1 - - [23/Mar/2024 11:57:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:57:36,383:INFO:127.0.0.1 - - [23/Mar/2024 11:57:36] "GET / HTTP/1.1" 200 -
+2024-03-23 11:57:38,598:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:57:39,270:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:57:39,578:INFO:Prediction: 155849.9
+2024-03-23 11:57:39,579:INFO:127.0.0.1 - - [23/Mar/2024 11:57:39] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:39,582:INFO:Prediction: 155849.9
+2024-03-23 11:57:39,584:INFO:127.0.0.1 - - [23/Mar/2024 11:57:39] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:42,832:INFO:User values: {'bedrooms': 8.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:57:42,836:INFO:Prediction: -188556.39
+2024-03-23 11:57:42,837:INFO:127.0.0.1 - - [23/Mar/2024 11:57:42] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:46,180:INFO:User values: {'bedrooms': 8.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:57:46,183:INFO:Prediction: -188556.39
+2024-03-23 11:57:46,184:INFO:127.0.0.1 - - [23/Mar/2024 11:57:46] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:59,303:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:57:59,306:INFO:Prediction: 155849.9
+2024-03-23 11:57:59,307:INFO:127.0.0.1 - - [23/Mar/2024 11:57:59] "POST / HTTP/1.1" 200 -
+2024-03-23 12:10:06,169:INFO:Starting the application
