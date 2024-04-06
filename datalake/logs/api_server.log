@@ -1,0 +1,78 @@
+2024-04-06 07:34:06,995:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:34:06,995:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:34:06,997:INFO: * Restarting with stat
+2024-04-06 07:34:08,054:WARNING: * Debugger is active!
+2024-04-06 07:34:08,061:INFO: * Debugger PIN: 899-236-599
+2024-04-06 07:39:07,507:INFO:127.0.0.1 - - [06/Apr/2024 07:39:07] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:39:50,913:INFO:127.0.0.1 - - [06/Apr/2024 07:39:50] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:40:49,353:INFO:127.0.0.1 - - [06/Apr/2024 07:40:49] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:41:02,005:INFO:127.0.0.1 - - [06/Apr/2024 07:41:02] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:41:44,892:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:41:44,893:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:41:44,895:INFO: * Restarting with stat
+2024-04-06 07:41:45,811:WARNING: * Debugger is active!
+2024-04-06 07:41:45,817:INFO: * Debugger PIN: 899-236-599
+2024-04-06 07:42:24,979:INFO:127.0.0.1 - - [06/Apr/2024 07:42:24] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:45:00,732:INFO:127.0.0.1 - - [06/Apr/2024 07:45:00] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:45:19,015:INFO:127.0.0.1 - - [06/Apr/2024 07:45:19] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:47:38,801:INFO:127.0.0.1 - - [06/Apr/2024 07:47:38] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:49:59,883:INFO:127.0.0.1 - - [06/Apr/2024 07:49:59] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:51:23,377:INFO:127.0.0.1 - - [06/Apr/2024 07:51:23] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:51:32,399:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:51:32,399:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:51:32,401:INFO: * Restarting with stat
+2024-04-06 07:51:33,486:WARNING: * Debugger is active!
+2024-04-06 07:51:33,494:INFO: * Debugger PIN: 899-236-599
+2024-04-06 07:52:50,814:INFO: * Detected change in 'D:\\UNAL_Maestria\\Semestre2\\productos_de_datos\\taller\\taller-presencial-DavidUrbaez\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:52:50,929:INFO: * Restarting with stat
+2024-04-06 07:52:51,892:WARNING: * Debugger is active!
+2024-04-06 07:52:51,898:INFO: * Debugger PIN: 899-236-599
+2024-04-06 07:52:57,617:INFO:127.0.0.1 - - [06/Apr/2024 07:52:57] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:58:42,375:INFO:127.0.0.1 - - [06/Apr/2024 07:58:42] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:20,523:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:21,361:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:01:21,361:INFO:127.0.0.1 - - [06/Apr/2024 08:01:21] "POST / HTTP/1.1" 200 -
+2024-04-06 08:03:47,091:INFO:127.0.0.1 - - [06/Apr/2024 08:03:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:04:41,043:INFO: * Detected change in 'D:\\UNAL_Maestria\\Semestre2\\productos_de_datos\\taller\\taller-presencial-DavidUrbaez\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:04:41,252:INFO: * Restarting with stat
+2024-04-06 08:04:42,184:WARNING: * Debugger is active!
+2024-04-06 08:04:42,192:INFO: * Debugger PIN: 899-236-599
+2024-04-06 08:06:10,050:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:06:10,050:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:06:10,051:INFO: * Restarting with stat
+2024-04-06 08:06:10,984:WARNING: * Debugger is active!
+2024-04-06 08:06:10,991:INFO: * Debugger PIN: 899-236-599
+2024-04-06 08:06:31,590:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:06:32,429:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:06:32,430:INFO:127.0.0.1 - - [06/Apr/2024 08:06:32] "POST / HTTP/1.1" 200 -
+2024-04-06 08:11:17,192:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:11:17,192:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:11:17,193:INFO: * Restarting with stat
+2024-04-06 08:11:18,105:WARNING: * Debugger is active!
+2024-04-06 08:11:18,111:INFO: * Debugger PIN: 899-236-599
+2024-04-06 08:11:20,970:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:11:21,799:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:11:21,799:INFO:127.0.0.1 - - [06/Apr/2024 08:11:21] "POST / HTTP/1.1" 200 -
+2024-04-06 08:23:10,270:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:23:10,272:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:23:10,273:INFO:127.0.0.1 - - [06/Apr/2024 08:23:10] "POST / HTTP/1.1" 200 -
+2024-04-06 08:41:45,497:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:41:45,500:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:41:45,500:INFO:127.0.0.1 - - [06/Apr/2024 08:41:45] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:14,820:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:15:14,822:INFO:Prediction: [155849.90294016]
+2024-04-06 09:15:14,823:INFO:127.0.0.1 - - [06/Apr/2024 09:15:14] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:18,516:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:15:18,517:INFO:Prediction: [196200.65530579]
+2024-04-06 09:15:18,518:INFO:127.0.0.1 - - [06/Apr/2024 09:15:18] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:27,105:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [4]}
+2024-04-06 09:15:27,106:INFO:Prediction: [276902.16003705]
+2024-04-06 09:15:27,107:INFO:127.0.0.1 - - [06/Apr/2024 09:15:27] "POST / HTTP/1.1" 200 -
+2024-04-06 09:27:08,529:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:27:08,531:INFO:Prediction: [155849.90294016]
+2024-04-06 09:27:08,531:INFO:127.0.0.1 - - [06/Apr/2024 09:27:08] "POST / HTTP/1.1" 200 -
